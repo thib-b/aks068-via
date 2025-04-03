@@ -1,3 +1,5 @@
+my own fork to save my config - check Original repo
+
 # AKS068 keyboard VIA programming files
 
 the AKS068 is a budget 68% usb-c ergonomic alice/arisu style keyboard sold under a few different names: ajazz, attack shark, mambasnake... it comes in two flavors: wired and pro, which they refer to as "trimode" w/ wired, 3 channel bluetooth, and 2.4g wireless mode with a usb-a dongle.
@@ -6,7 +8,9 @@ this repo contains __working__ VIA json programming files for both the [wired](h
 
 ## preview
 
-here's my personal layout:
+![keyboard layout](https://raw.githubusercontent.com/xero/aks068-via/main/thibaks068.png)
+
+og personal layout:
 
 ![keyboard layout](https://raw.githubusercontent.com/xero/aks068-via/main/layout-preview.png)
 
